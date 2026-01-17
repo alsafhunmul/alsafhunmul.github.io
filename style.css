@@ -15,7 +15,7 @@ body {
 
 /* HERO / BANNER */
 .hero {
-  background-image: url("BANNER DIGITAL.jpg");
+  background-image: url("hero.jpg");
   background-size: cover;
   background-position: center;
   height: 85vh;
