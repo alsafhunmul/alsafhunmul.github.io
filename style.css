@@ -28,3 +28,10 @@ section{padding:60px 40px;background:#fff}
 section:nth-child(even){background:var(--neutral)}
 h2{color:var(--primary);margin-bottom:15px}
 footer{background:var(--primary);color:#fff;text-align:center;padding:20px;font-size:14px}
+h2 {
+  display: inline-block;        
+  background-color: #5a1d1d;    
+  color: #ffffff;
+  padding: 8px 16px;
+  border-radius: 6px;           
+}
